@@ -1,9 +1,8 @@
-Kickster
+Depression and Bipolar Disorder Support Alliance - Dallas
 ========
 
-[![Join the chat at https://gitter.im/nielsenramon/kickster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nielsenramon/kickster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+The DBSA-Dallas was a locally-run, independent affiliate of the National DBSA, which is the largest support organization in the nation devoted exclusively to mood disorders. The DBSA-Dallas is a non-profit organization run by individuals with mood disorders and their significant others. All who are interested are invited to attend meetings and to participate without cost or obligation. We will be gradually updating our local offerings and I look forward to these exciting new changes.
 
-Kickster provides a basic Jekyll project setup packed with web best practises and useful optimization tools increasing your overall project quality. Kickster ships with automated and worry-free deployment scripts for GitHub Pages.
 
 Used tools:
 
